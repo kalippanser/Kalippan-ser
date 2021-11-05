@@ -29,12 +29,12 @@ Project created by <a href="https://github.com/kalippanser">Kalippan-ser</a> to 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Amal-ser/Amalser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippanser/Kalippan-ser.git)
 
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kalippan-ser/Kalippan-ser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kalippanser/kalippanser)
   
 ### The Hard Method
 ```js
