@@ -34,7 +34,7 @@ Project created by <a href="https://github.com/kalippanser">Kalippan-ser</a> to 
 
 
   
-[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@kalippanser/Kalippan-ser)
+[![Run on Repl.it](https://repl.it/badge/github/quiec/whatsAlfa)](https://replit.com/@Amalser/Amalser)
   
 ### The Hard Method
 ```js
