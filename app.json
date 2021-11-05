@@ -194,7 +194,7 @@
         "ADD_MESSAGE": {
             "description": "Customizable Add Message! Use => default, to change back.",
             "required": false,
-            "value": "default"
+            "value": "helo"
         },
         "KICKME_MESSAGE": {
             "description": "Customizable Kickme Message! Use => default, to change back.",
