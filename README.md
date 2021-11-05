@@ -29,7 +29,7 @@ Project created by <a href="https://github.com/kalippanser">Kalippan-ser</a> to 
 
   ### Simple Method
   
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/kalippanser/Kalippan-ser.git)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Kalippan-ser/kalippan.git)
 
 
 
