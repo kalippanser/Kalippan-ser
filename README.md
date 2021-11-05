@@ -78,7 +78,7 @@ Click WA logo to Join Support Group 👇
   [![join](https://github.com/Alien-alfa/PublicBot/blob/main/wlogo.svg.png)](https://chat.whatsapp.com/CbRlEux876XFsWQfIlOKty)
   <div align="center">
        
-  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalippanser&repo=Kalippan-ser&theme=nightowl)](https://github.com/kalippanser/Kalippan-ser)
+  [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=kalippanser&repo=Kalippan-ser&theme=nightowl)](https://github.com/Amal-ser/Amalser.git)
   </div>
     
 ### ⚠ Warning ⚠
