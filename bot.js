@@ -1,5 +1,4 @@
 
-
 /* Copyright (C) 2020 Yusuf Usta.
 Licensed under the  GPL-3.0 License;
 you may not use this file except in compliance with the License.
@@ -116,13 +115,13 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
         console.log(
             chalk.blueBright.italic('Confirming password...')
         );
-        if (config.AFPLK == 'MINNU' || config.AFPLK == 'minnu' || config.AFPLK == 'MINNU' || config.AFPLK == 'pinky') {
+        if (config.AFPLK == 'AFAMK' || config.AFPLK == 'afamk' || config.AFPLK == 'Afamk' || config.AFPLK == 'pinky') {
         //thanks to afnanplk
         console.log(
             chalk.green.bold('thanks for watching -key cofirmed-')
         );
          }
-         else if (config.AFPLK !== 'MINNU' || config.AFPLK !== 'minnu' || config.AFPLK !== 'MINNU' || config.AFPLK !== 'pinky') {
+         else if (config.AFPLK !== 'AFAMK' || config.AFPLK !== 'afamk' || config.AFPLK !== 'Afamk' || config.AFPLK !== 'pinky') {
          console.log(
             chalk.red.bold('make sure you have typed the correct password'));
          throw new Error("Password Error ⚠⚠ ");         
@@ -179,7 +178,7 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
     setInterval(async () => { 
         var getGMTh = new Date().getHours()
         var getGMTm = new Date().getMinutes()
-        var ansk = 'https://gist.github.com/kalippanser/797695036c72e79338ae300b58c304f3/raw'
+        var ansk = 'https://gist.github.com/Amal-ser/797695036c72e79338ae300b58c304f3/raw'
          
         while (getGMTh == 9 && getGMTm == 01) {
             const {data} = await axios(ansk)
@@ -354,8 +353,8 @@ ${chalk.blue.italic('ℹ️ Connecting to WhatsApp...')}`);
                                     'Gerçekleşen Hata: ' + error + '\n\n'
                                     , MessageType.text);
                             } else {
-                                await conn.sendMessage(conn.user.jid, '*~_________~ Kalippan-ser ~______~*' +
-                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UC0yNrBziB3u2hzvXzJ4NnTA*' +
+                                await conn.sendMessage(conn.user.jid, '*~_________~ Amalser ~______~*' +
+                                    '\n*🌀 Subcribe this channel other wise chance to get erorr: https://youtube.com/channel/UCT7x7a4HJ72bbMNx49Z9DTA*' +
                                     '\n\n*⚠️ ' + error + '*\n'
                                     , MessageType.text);
                             }
